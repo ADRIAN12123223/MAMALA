@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 10.119.209.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1782200788041
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1782203279482
+  login: 1782200671262
+money: '0'
+last-account-name: ricardopro12lojs
+lastlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: 56.977580546150435
+  y: 75.0
+  z: -210.65818502881822
+  yaw: 85.79983520507812
+  pitch: 15.29998779296875
+logoutlocation:
+  world: 6fd54992-f0a4-41b1-b428-9be103fbc2f6
+  world-name: world
+  x: -5585.866417130821
+  y: 6.0
+  z: -5649.7897325558415
+  yaw: -173.226806640625
+  pitch: 21.75001335144043
